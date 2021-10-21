@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Palengke (Philippines)",
+		"replaces": "Market",
+		"uniqueTo": "Philippines",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+2 Food] from [Bonus resource] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Palengke (Filipinas)",
+		"replaces": "Market",
+		"uniqueTo": "Filipinas",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+2 Food] from [Bonus resource] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Palengke (Tondo)",
+		"replaces": "Market",
+		"uniqueTo": "Tondo",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+2 Food] from [Bonus resource] tiles [in this city]"],
+		"requiredTech": "Currency"
+	}
+]
