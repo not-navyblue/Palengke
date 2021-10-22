@@ -5,9 +5,12 @@
 		"uniqueTo": "Philippines",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
+		"hurryCostModifier": 20,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+2 Food] from [Bonus resource] tiles [in this city]"],
+		"uniques": [
+			"[+2 Food] from [Bonus resource] tiles [in this city]",
+			"[+1 Gold, +1 Production] from [Luxury resource] tiles [in this city]"
+		],
 		"requiredTech": "Currency"
 	},
 	{
@@ -16,9 +19,12 @@
 		"uniqueTo": "Filipinas",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
+		"hurryCostModifier": 20,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+2 Food] from [Bonus resource] tiles [in this city]"],
+		"uniques": [
+			"[+2 Food] from [Bonus resource] tiles [in this city]",
+			"[+1 Gold, +1 Production] from [Luxury resource] tiles [in this city]"
+		],
 		"requiredTech": "Currency"
 	},
 	{
@@ -27,9 +33,12 @@
 		"uniqueTo": "Tondo",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
+		"hurryCostModifier": 20,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+2 Food] from [Bonus resource] tiles [in this city]"],
+		"uniques": [
+			"[+2 Food] from [Bonus resource] tiles [in this city]",
+			"[+1 Gold, +1 Production] from [Luxury resource] tiles [in this city]"
+		],
 		"requiredTech": "Currency"
 	}
 ]

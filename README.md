@@ -14,6 +14,7 @@ required that you must have one of these mods for it to work:
 - Replaces Market
 - Unique to Philippines, Filipinas, and Tondo\*
 - +2 Food from tiles with a bonus resource in a city
+- +1 Gold and +1 Production from tiles with a luxury resource in a city
 
 ## Changelog
 *See [CHANGELOG.md](https://github.com/not-navyblue/Palengke/blob/main/CHANGELOG.md).*
