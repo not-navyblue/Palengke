@@ -13,7 +13,7 @@ required that you must have one of these mods for it to work:
 #### Palengke
 - Replaces Market
 - Unique to Philippines, Filipinas, and Tondo\*
-- +1 Food and +1 Gold from each Trade Route (two cities connected by roads or via harbours)
+- +1 Food, +1 Gold, and +1 Production from each Trade Route (two cities connected by roads or via harbours)
 - +2 Food from tiles with a bonus resource in a city
 - +1 Gold and +1 Production from tiles with a luxury resource in a city
 
