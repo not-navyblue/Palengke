@@ -3,11 +3,12 @@
 		"name": "Palengke (Philippines)",
 		"replaces": "Market",
 		"uniqueTo": "Philippines",
-		"gold": 2,
+		"gold": 3,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 20,
 		"percentStatBonus": {"gold": 25},
 		"uniques": [
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route",
 			"[+2 Food] from [Bonus resource] tiles [in this city]",
 			"[+1 Gold, +1 Production] from [Luxury resource] tiles [in this city]"
 		],
@@ -17,11 +18,12 @@
 		"name": "Palengke (Filipinas)",
 		"replaces": "Market",
 		"uniqueTo": "Filipinas",
-		"gold": 2,
+		"gold": 3,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 20,
 		"percentStatBonus": {"gold": 25},
 		"uniques": [
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route",
 			"[+2 Food] from [Bonus resource] tiles [in this city]",
 			"[+1 Gold, +1 Production] from [Luxury resource] tiles [in this city]"
 		],
@@ -31,11 +33,12 @@
 		"name": "Palengke (Tondo)",
 		"replaces": "Market",
 		"uniqueTo": "Tondo",
-		"gold": 2,
+		"gold": 3,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 20,
 		"percentStatBonus": {"gold": 25},
 		"uniques": [
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route",
 			"[+2 Food] from [Bonus resource] tiles [in this city]",
 			"[+1 Gold, +1 Production] from [Luxury resource] tiles [in this city]"
 		],
