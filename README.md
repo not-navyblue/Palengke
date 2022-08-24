@@ -7,7 +7,8 @@ required that you must have one of these mods for it to work:
 - [*Shann's "ph bonifacio unciv" Mod*](https://github.com/shannaurelle/ph-bonifacio-unciv)*¹*
 - [*Angelonius' "Project Felipe" Mod*](https://github.com/Angelonius/Project-Felipe)
 - [*Angelonius' "Project Tondo" Mod*](https://github.com/Angelonius/Project-Tondo)
-- [*Philippines civilization from Aqua2005's "AquaExtension GAK" Mod*](https://github.com/Aqua2005/AquaExtension-GAK)*¹*
+- [*Philippines from Aqua2005's "AquaExtension GAK" Mod*](https://github.com/Aqua2005/AquaExtension-GAK)*¹*
+- [*Sultanate of Sulu from amfauzn's "Borneo Civilization" Mod*](https://github.com/amfauzn/Borneo-Civilization)
 
 ###### ¹ It is recommended to choose only one or the other as the civilizations technically share the same exact name.
 
@@ -15,10 +16,13 @@ required that you must have one of these mods for it to work:
 ### Buildings
 #### Palengke
 - Replaces Market
-- Unique to Philippines, Filipinas, and Tondo\*
+- Unique to Philippines, Filipinas, Tondo, and Sultanate of Sulu\*
 - +1 Food, +1 Gold, and +1 Production from each Trade Route (two cities connected by roads or via harbours)
-- +2 Food from tiles with a bonus resource in a city
-- +1 Gold and +1 Production from tiles with a luxury resource in a city
+- +1 Food and +1 Gold from tiles with a non-Stone bonus resource in a city
+- +1 Production and +1 Gold from tiles with Stone in a city
+- +1 Gold, +1 Production, and +1 Happiness from tiles with a luxury resource in a city
+- +1 Production and +1 Gold from tiles with a non-Horse strategic resource in a city
+- +1 Production and +1 Food from tiles with Horses in a city
 
 ## Changelog
 *See [CHANGELOG.md](https://github.com/not-navyblue/Palengke/blob/main/CHANGELOG.md).*

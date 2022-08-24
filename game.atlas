@@ -25,3 +25,10 @@ BuildingIcons/Palengke (Tondo)
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Palengke (Sultanate of Sulu)
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
