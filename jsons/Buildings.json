@@ -1,73 +1,133 @@
 [
-	{ // shannaurelle's ph bonifacio unciv mod OR Aqua2005's AquaExtension GAK mod
-		"name": "Palengke (Philippines)",
+	{ // shannaurelle's ph bonifacio unciv
+		"name": "Palengke (Manila)",
 		"replaces": "Market",
 		"uniqueTo": "Philippines",
-		"gold": 4,
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 29,
-		"percentStatBonus": {"gold": 25},
+		"hurryCostModifier": 23,
+		"percentStatBonus": {"gold": 30},
 		"uniques": [
-			"[+1 Food, +1 Gold, +1 Production] from each Trade Route",
-			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]>",
-			"[+1 Production, +1 Gold] from [Bonus resource] tiles [in this city] <in [Stone] tiles>",
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (doubled from the [Industrial era] onwards)]",
+			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; and [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
+			"Comment [[+1 Production, +1 Food] from [Horses] tiles; and [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
 			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
-			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]>",
-			"[+1 Production, +1 Food] from [Strategic resource] tiles [in this city] <in [Horses] tiles>"
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route <before the [Industrial era]> <hidden from users>",
+			"[+2 Food, +2 Gold, +2 Production] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
+			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]> <hidden from users>",
+			"[+1 Production, +1 Gold] from [Stone] tiles [in this city] <hidden from users>",
+			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]> <hidden from users>",
+			"[+1 Production, +1 Food] from [Horses] tiles [in this city] <hidden from users>"
 		],
 		"requiredTech": "Currency"
 	},
-	{ // Angelonius's Project Felipe mod
-		"name": "Palengke (Filipinas)",
+	{ // Angelonius's Project Felipe
+		"name": "Palengke (Intramuros)",
 		"replaces": "Market",
 		"uniqueTo": "Filipinas",
-		"gold": 4,
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 29,
-		"percentStatBonus": {"gold": 25},
+		"hurryCostModifier": 23,
+		"percentStatBonus": {"gold": 30},
 		"uniques": [
-			"[+1 Food, +1 Gold, +1 Production] from each Trade Route",
-			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]>",
-			"[+1 Production, +1 Gold] from [Bonus resource] tiles [in this city] <in [Stone] tiles>",
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
+			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
+			"Comment [[+1 Production, +1 Food] from [Horses] tiles; [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
 			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
-			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]>",
-			"[+1 Production, +1 Food] from [Strategic resource] tiles [in this city] <in [Horses] tiles>"
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route <before the [Industrial era]> <hidden from users>",
+			"[+2 Food, +2 Gold, +2 Production] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
+			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]> <hidden from users>",
+			"[+1 Production, +1 Gold] from [Stone] tiles [in this city] <hidden from users>",
+			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]> <hidden from users>",
+			"[+1 Production, +1 Food] from [Horses] tiles [in this city] <hidden from users>"
 		],
 		"requiredTech": "Currency"
 	},
-	{ // Angelonius's Project Tondo mod
+	{ // Angelonius's Project Tondo || amfauzn's Nusantara Civilizations (Tondo)
 		"name": "Palengke (Tondo)",
 		"replaces": "Market",
 		"uniqueTo": "Tondo",
-		"gold": 4,
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 29,
-		"percentStatBonus": {"gold": 25},
+		"hurryCostModifier": 23,
+		"percentStatBonus": {"gold": 30},
 		"uniques": [
-			"[+1 Food, +1 Gold, +1 Production] from each Trade Route",
-			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]>",
-			"[+1 Production, +1 Gold] from [Bonus resource] tiles [in this city] <in [Stone] tiles>",
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
+			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
+			"Comment [[+1 Production, +1 Food] from [Horses] tiles; [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
 			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
-			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]>",
-			"[+1 Production, +1 Food] from [Strategic resource] tiles [in this city] <in [Horses] tiles>"
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route <before the [Industrial era]> <hidden from users>",
+			"[+2 Food, +2 Gold, +2 Production] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
+			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]> <hidden from users>",
+			"[+1 Production, +1 Gold] from [Stone] tiles [in this city] <hidden from users>",
+			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]> <hidden from users>",
+			"[+1 Production, +1 Food] from [Horses] tiles [in this city] <hidden from users>"
 		],
 		"requiredTech": "Currency"
 	},
-	{ // amfauzn's Borneo Civilization mod
-		"name": "Palengke (Sultanate of Sulu)",
+	{ // amfauzn's Nusantara Civilizations (Sulu)
+		"name": "Palengke (Buana)",
 		"replaces": "Market",
-		"uniqueTo": "Sultanate of Sulu",
-		"gold": 4,
+		"uniqueTo": "Sulu",
+		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 29,
-		"percentStatBonus": {"gold": 25},
+		"hurryCostModifier": 23,
+		"percentStatBonus": {"gold": 30},
 		"uniques": [
-			"[+1 Food, +1 Gold, +1 Production] from each Trade Route",
-			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]>",
-			"[+1 Production, +1 Gold] from [Bonus resource] tiles [in this city] <in [Stone] tiles>",
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
+			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
+			"Comment [[+1 Production, +1 Food] from [Horses] tiles; [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
 			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
-			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]>",
-			"[+1 Production, +1 Food] from [Strategic resource] tiles [in this city] <in [Horses] tiles>"
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route <before the [Industrial era]> <hidden from users>",
+			"[+2 Food, +2 Gold, +2 Production] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
+			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]> <hidden from users>",
+			"[+1 Production, +1 Gold] from [Stone] tiles [in this city] <hidden from users>",
+			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]> <hidden from users>",
+			"[+1 Production, +1 Food] from [Horses] tiles [in this city] <hidden from users>"
+		],
+		"requiredTech": "Currency"
+	},
+	{ // amfauzn's Nusantara Civilizations (Cebu)
+		"name": "Palengke (Singhapala)",
+		"replaces": "Market",
+		"uniqueTo": "Cebu",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 23,
+		"percentStatBonus": {"gold": 30},
+		"uniques": [
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
+			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
+			"Comment [[+1 Production, +1 Food] from [Horses] tiles; [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
+			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route <before the [Industrial era]> <hidden from users>",
+			"[+2 Food, +2 Gold, +2 Production] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
+			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]> <hidden from users>",
+			"[+1 Production, +1 Gold] from [Stone] tiles [in this city] <hidden from users>",
+			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]> <hidden from users>",
+			"[+1 Production, +1 Food] from [Horses] tiles [in this city] <hidden from users>"
+		],
+		"requiredTech": "Currency"
+	},
+	{ // amfauzn's Nusantara Civilizations (Maguindanao)
+		"name": "Palengke (Kuta Watu)",
+		"replaces": "Market",
+		"uniqueTo": "Maguindanao",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 23,
+		"percentStatBonus": {"gold": 30},
+		"uniques": [
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (This bonus is doubled starting from the [Industrial era] onwards)]",
+			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
+			"Comment [[+1 Production, +1 Food] from [Horses] tiles; [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
+			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route <before the [Industrial era]> <hidden from users>",
+			"[+2 Food, +2 Gold, +2 Production] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
+			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]> <hidden from users>",
+			"[+1 Production, +1 Gold] from [Stone] tiles [in this city] <hidden from users>",
+			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]> <hidden from users>",
+			"[+1 Production, +1 Food] from [Horses] tiles [in this city] <hidden from users>"
 		],
 		"requiredTech": "Currency"
 	}
