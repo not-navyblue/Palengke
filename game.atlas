@@ -1,34 +1,48 @@
 
 game.png
-size: 128, 128
+size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Palengke (Filipinas)
+BuildingIcons/Palengke (Buana)
   rotate: false
   xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 700, 700
+  orig: 700, 700
   offset: 0, 0
   index: -1
-BuildingIcons/Palengke (Philippines)
+BuildingIcons/Palengke (Intramuros)
   rotate: false
   xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+BuildingIcons/Palengke (Kuta Watu)
+  rotate: false
+  xy: 4, 4
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+BuildingIcons/Palengke (Manila)
+  rotate: false
+  xy: 4, 4
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+BuildingIcons/Palengke (Singhapala)
+  rotate: false
+  xy: 4, 4
+  size: 700, 700
+  orig: 700, 700
   offset: 0, 0
   index: -1
 BuildingIcons/Palengke (Tondo)
   rotate: false
   xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Palengke (Sultanate of Sulu)
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 700, 700
+  orig: 700, 700
   offset: 0, 0
   index: -1
