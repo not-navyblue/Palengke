@@ -4,6 +4,13 @@ size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Palengke (Baguio)
+  rotate: false
+  xy: 4, 4
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
 BuildingIcons/Palengke (Buana)
   rotate: false
   xy: 4, 4
@@ -25,6 +32,13 @@ BuildingIcons/Palengke (Kuta Watu)
   orig: 700, 700
   offset: 0, 0
   index: -1
+BuildingIcons/Palengke (Malandog)
+  rotate: false
+  xy: 4, 4
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
 BuildingIcons/Palengke (Manila)
   rotate: false
   xy: 4, 4
@@ -39,7 +53,7 @@ BuildingIcons/Palengke (Singhapala)
   orig: 700, 700
   offset: 0, 0
   index: -1
-BuildingIcons/Palengke (Tondo)
+BuildingIcons/Palengke
   rotate: false
   xy: 4, 4
   size: 700, 700

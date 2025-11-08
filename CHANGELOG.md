@@ -1,4 +1,26 @@
 # Palengke Changelog
+## v1.5 (November 8, 2025 Update)
+*this is fine, everything is fine, everything is TOTALLY fine.*
+### Major Changes
+- Added more support with Civs from Nusantara Civilizations mod
+	- Added support for Igorot and Madja-as
+- Added experimental City-State support, starting with the following City-States
+	- Manila (without ph bonifacio unciv)
+	- Butuan, Ivatan, and Mactan (Nusantara Civilizations)
+- Mod is no longer compatible with Vanilla ruleset, requiring G&K or other rulesets instead
+- Rebalanced (mostly nerfed by a lot) the Palengke building
+	- BUFF: Merchant slots have been increased from 1 to 2
+	- NERF: Reduced base Gold generation from 2 to 1
+		- Does not affect City-State versions
+	- NERF: Reduced percentage Gold generation from 30% to 20%
+		- City-State versions have been reverted back to 25% Gold
+	- NERF: Increased building cost from 100 (default) to 125
+		- Does not affect City-State versions, which have it set to 90
+	- NERF: Increased hurry cost modifier from 23 to 29
+		- Does not affect City-State versions, which have it set to 21
+	- REMOVED: Luxury resource tiles no longer have +1 Happiness
+	- REMOVED: Trade Routes/City Connections no longer have their bonuses doubled from the Industrial era onwards
+
 ## v1.4 (May 26, 2024 Update)
 *final exams ended, awaiting further 2nd level suffering...*<br>
 *in other news, still not fully back to unciv modding*
